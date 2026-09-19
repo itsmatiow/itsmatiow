@@ -10,6 +10,21 @@ I also design interfaces and digital products, combining development and UI/UX t
 
 ---
 
+## 🛠️ Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 **Frontend**
@@ -73,16 +88,22 @@ Here I'll showcase selected interface designs, product concepts, and visual expl
 
 🧥 🧥 Choob Lebasi
 An online clothing rental experience, from discovering a style to booking the perfect outfit
-<img width="1000" height="540" alt="choob 1" src="https://github.com/user-attachments/assets/3b6b6cf4-15de-4b30-9598-613123c44ba5" />
+<img width="400" alt="choob 1" src="https://github.com/user-attachments/assets/3b6b6cf4-15de-4b30-9598-613123c44ba5" />
+
+---
 
 🕌 Ahl-e Behesht
 A shared space for Quran recitation and Salawat, built around collective participation
 <img width="1000" height="540" alt="ahle 1" src="https://github.com/user-attachments/assets/f94673f3-4208-438d-ae22-8b27a49af0ac" />
 
+---
+
 🎬 Dast Be Naqd
 A community-driven space to discover, watch, and review movies and TV shows
 <img width="430" height="1392" alt="movie 2" src="https://github.com/user-attachments/assets/aac2b506-552f-4a1f-8c7c-f0439f3a373f" />
 <img width="1512" height="982" alt="movie 1" src="https://github.com/user-attachments/assets/191cf132-fc09-46af-8b67-7a73936112e5" />
+
+---
 
 🍱 Cook Pack  
 Ingredient ordering based on your chosen recipe
@@ -90,10 +111,21 @@ Ingredient ordering based on your chosen recipe
 <img width="1440" height="1024" alt="cook 2" src="https://github.com/user-attachments/assets/bcf171e9-d9c1-4893-b6e6-1ef490cdd41f" />
 <img width="1440" height="1024" alt="cook 3" src="https://github.com/user-attachments/assets/2b93feb7-8305-42c0-9e6a-beb1f2bb191b" />
 
+---
+
 ✍️ Ghalam
 An interactive space for writing, continuing, and creating stories together
 <img width="1280" height="2958" alt="ghalam 2" src="https://github.com/user-attachments/assets/e7d64727-974b-4383-91f8-11c2790daafd" />
 <img width="440" height="3429" alt="ghalam 1" src="https://github.com/user-attachments/assets/21b2791f-5bf8-456f-ac58-a3f14f0e27b0" />
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmatiow&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmatiow&layout=compact&hide_border=true" height="170" />
+</p>
 
 ---
 
