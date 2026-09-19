@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/hero.png" alt="Matiow - Frontend Developer & UI/UX Designer" width="100%" />
+</p>
 # Hey, I'm Matiow 👋
 
 ### Frontend Developer & UI/UX Designer
