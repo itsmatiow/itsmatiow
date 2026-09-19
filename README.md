@@ -10,6 +10,14 @@ I also design interfaces and digital products, combining development and UI/UX t
 
 ---
 
+## 📫 Connect
+
+- 📸 [Instagram](https://www.instagram.com/_itsmatiow)
+- 💬 [Telegram](https://t.me/TheMatiow)
+- 🌐 [Hashtag Team](https://hashtagteam.ir)
+
+---
+
 ## 🛠️ Technologies
 
 <p align="left">
@@ -171,6 +179,15 @@ An interactive space for writing, continuing, and creating stories together
 
 روی ساخت تجربه‌های وب واکنش‌گرا با تمرکز بر **React، JavaScript و توسعه مدرن فرانت‌اند** کار می‌کنم.
 در کنار توسعه، روی طراحی رابط و محصولات دیجیتال هم کار می‌کنم و علاقه‌مندم طراحی و توسعه را برای ساخت تجربه‌های کاربردی در کنار هم قرار بدهم.
+
+---
+
+## 📫 ارتباط با من
+
+* 📸 [اینستاگرام](https://www.instagram.com/_itsmatiow)
+* 💬 [تلگرام](https://t.me/TheMatiow)
+* 🌐 [تیم هشتگ](https://hashtagteam.ir)
+
 
 ---
 
