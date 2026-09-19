@@ -49,7 +49,7 @@ A collaborative web project built with React, featuring a modern responsive inte
 
 ---
 
-### 🍕 Pizza Order
+### 🍕 Restono
 
 A responsive restaurant ordering experience with menu browsing, cart management, order placement, and order tracking.
 
@@ -69,7 +69,7 @@ A travel planning web application with an interactive map for exploring and orga
 
 ---
 
-### 📝 Exam Platform
+### 📝 AS (Azmoon Saz)
 
 An online exam platform built to provide a complete exam-taking experience through a responsive web interface.
 
@@ -203,7 +203,7 @@ Git · GitHub · Figma · REST API
 
 ## 🚀 پروژه‌های منتخب
 
-### 🏷️ Hashtag
+### 🏷️ هشتگ
 
 یک پروژه وب تیمی ساخته‌شده با React، با تمرکز بر رابط کاربری مدرن، واکنش‌گرا و استفاده از کامپوننت‌های قابل استفاده مجدد.
 
@@ -213,7 +213,7 @@ Git · GitHub · Figma · REST API
 
 ---
 
-### 🍕 Pizza Order
+### 🍕 رستونو
 
 یک تجربه سفارش آنلاین رستوران شامل مشاهده منو، مدیریت سبد خرید، ثبت سفارش و پیگیری سفارش.
 
@@ -223,7 +223,7 @@ Git · GitHub · Figma · REST API
 
 ---
 
-### 🗺️ SafarNegar
+### 🗺️ سفرنگار
 
 یک وب‌اپلیکیشن برنامه‌ریزی سفر با نقشه تعاملی برای جست‌وجو و مدیریت مقصدهای سفر.
 
@@ -233,7 +233,7 @@ Git · GitHub · Figma · REST API
 
 ---
 
-### 📝 Exam Platform
+### 📝 آس (آزمون ساز)
 
 یک پلتفرم آزمون آنلاین با هدف ارائه یک تجربه کامل و واکنش‌گرا برای شرکت در آزمون‌ها.
 
